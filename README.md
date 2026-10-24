@@ -58,14 +58,15 @@ Here are some of the certifications and practical job simulations I've completed
 🔗 [View verified credential on Credly](https://www.credly.com/badges/c8680fe7-b4f0-4f41-9a00-5de1ccea453b/public_url)
 
 ### 2. GEN AI Virtual Internship | BCG / Forage
-certifications/genai%20job%20simulation%20bcg2_page-0001.jpg
+
+[![GEN AI Virtual Internship](certifications/genai%20job%20simulation%20bcg2_page-0001.jpg)](https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_6ad37d5c370ca66eb279ac60_1792745602361_completion_certificate.pdf)
+
 **Issuer:** Boston Consulting Group (BCG) via Forage
 
 🔗 [View completion certificate](https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_6ad37d5c370ca66eb279ac60_1792745602361_completion_certificate.pdf)
-
 ### 3. Generative AI | Forage
 
-[![Generative AI](certifications/forage-generative-ai.png)](https://www.theforage.com/completion-certificates/PSJm5xBFZtjjf9AnA/i2nMh36aEWT7awGCa_PSJm5xBFZtjjf9AnA_6ad37d5c370ca66eb279ac60_1792674136793_completion_certificate.pdf)
+[![Generative AI](certifications/EAB%20JOB%20SIMULATION,%20FORAGE_page-0001.jpg)](https://www.theforage.com/completion-certificates/PSJm5xBFZtjjf9AnA/i2nMh36aEWT7awGCa_PSJm5xBFZtjjf9AnA_6ad37d5c370ca66eb279ac60_1792674136793_completion_certificate.pdf)
 
 **Issuer:** Forage
 
@@ -73,7 +74,7 @@ certifications/genai%20job%20simulation%20bcg2_page-0001.jpg
 
 ### 4. GenAI for Proposal Generation Job Simulation
 
-[![GenAI Proposal Generation](certifications/genai-proposal-generation.png)](PASTE_YOUR_CERTIFICATE_URL_HERE)
+[![GenAI Proposal Generation](certifications/artificial-intelligence-fundamentals.png)](PASTE_YOUR_CERTIFICATE_URL_HERE)
 
 **Issuer:** Please confirm from your certificate
 
