@@ -58,9 +58,7 @@ Here are some of the certifications and practical job simulations I've completed
 🔗 [View verified credential on Credly](https://www.credly.com/badges/c8680fe7-b4f0-4f41-9a00-5de1ccea453b/public_url)
 
 ### 2. GEN AI Virtual Internship | BCG / Forage
-
-[![GEN AI Virtual Internship](certifications/bcg-genai-internship.png)](https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_6ad37d5c370ca66eb279ac60_1792745602361_completion_certificate.pdf)
-
+certifications/genai%20job%20simulation%20bcg2_page-0001.jpg
 **Issuer:** Boston Consulting Group (BCG) via Forage
 
 🔗 [View completion certificate](https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_6ad37d5c370ca66eb279ac60_1792745602361_completion_certificate.pdf)
