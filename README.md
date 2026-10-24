@@ -45,6 +45,46 @@ A matrimonial website built around helping people connect through an online plat
 
 🔗 [Visit Rishta Elite](https://rishta-elite.vercel.app/)
 
+
+## 🎓 Certifications & Professional Learning
+
+Here are some of the certifications and practical job simulations I've completed while expanding my knowledge of AI and Generative AI.
+
+### 1. Artificial Intelligence Fundamentals | IBM
+
+[![IBM AI Fundamentals](certifications/ibm-ai-fundamentals.png)](https://www.credly.com/badges/c8680fe7-b4f0-4f41-9a00-5de1ccea453b/public_url)
+
+**Issuer:** IBM
+
+🔗 [View verified credential on Credly](https://www.credly.com/badges/c8680fe7-b4f0-4f41-9a00-5de1ccea453b/public_url)
+
+### 2. GEN AI Virtual Internship | BCG / Forage
+
+[![GEN AI Virtual Internship](certifications/bcg-genai-internship.png)](https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_6ad37d5c370ca66eb279ac60_1792745602361_completion_certificate.pdf)
+
+**Issuer:** Boston Consulting Group (BCG) via Forage
+
+🔗 [View completion certificate](https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_6ad37d5c370ca66eb279ac60_1792745602361_completion_certificate.pdf)
+
+### 3. Generative AI | Forage
+
+[![Generative AI](certifications/forage-generative-ai.png)](https://www.theforage.com/completion-certificates/PSJm5xBFZtjjf9AnA/i2nMh36aEWT7awGCa_PSJm5xBFZtjjf9AnA_6ad37d5c370ca66eb279ac60_1792674136793_completion_certificate.pdf)
+
+**Issuer:** Forage
+
+🔗 [View completion certificate](https://www.theforage.com/completion-certificates/PSJm5xBFZtjjf9AnA/i2nMh36aEWT7awGCa_PSJm5xBFZtjjf9AnA_6ad37d5c370ca66eb279ac60_1792674136793_completion_certificate.pdf)
+
+### 4. GenAI for Proposal Generation Job Simulation
+
+[![GenAI Proposal Generation](certifications/genai-proposal-generation.png)](PASTE_YOUR_CERTIFICATE_URL_HERE)
+
+**Issuer:** Please confirm from your certificate
+
+🔗 [View certificate](PASTE_YOUR_CERTIFICATE_URL_HERE)
+
+---
+
+
 ## 🛠️ Technologies I Work With
 
 - **Frontend:** React.js, JavaScript, Redux, Tailwind CSS
