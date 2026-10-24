@@ -52,8 +52,7 @@ Here are some of the certifications and practical job simulations I've completed
 
 ### 1. Artificial Intelligence Fundamentals | IBM
 
-[![IBM AI Fundamentals](certifications/ibm-ai-fundamentals.png)](https://www.credly.com/badges/c8680fe7-b4f0-4f41-9a00-5de1ccea453b/public_url)
-
+[![IBM AI Fundamentals](certifications/IBMDesign20261024-20-266kle_page-0001.jpg)](https://www.credly.com/badges/c8680fe7-b4f0-4f41-9a00-5de1ccea453b/public_url)
 **Issuer:** IBM
 
 🔗 [View verified credential on Credly](https://www.credly.com/badges/c8680fe7-b4f0-4f41-9a00-5de1ccea453b/public_url)
