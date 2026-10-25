@@ -1,122 +1,78 @@
+# Hi, I'm Shahida 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shahidabuali) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Shahida Bu-Ali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahidabuali123@gmail.com) 
+**Frontend / Full-Stack Web Developer** based in Lahore, Pakistan (UTC+5). I design in Figma and build complete, deployed web apps with HTML, CSS, JavaScript, TypeScript, React, Node.js and Supabase. Computer Science student at Lahore College for Women University, looking for a full-time remote Frontend, Full-Stack or Web Developer role.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shahidabuali&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=shahidabuali&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shahidabuali&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahida-bu-ali-3010ba288)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://shahidas-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahidabuali123@gmail.com)
 
----
-[![](https://komarev.com/ghpvc/?username=shahidabuali&icon=0&color=0)](https://visitcount.itsvg.in)
+## 💻 Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# Hey, I'm Shahida 👋
+### 💌 RishtaElite | Matrimonial Platform
+Full-stack matrimonial web app in JavaScript and Supabase: registration, login and two-factor authentication, real-time messaging, profile photo storage, an admin panel, an English/Urdu toggle and a light/dark theme.
 
-I'm a full-stack developer who enjoys building websites and web applications, working on the design, and figuring out how everything should work behind the scenes.
+🔗 Live: [rishta-elite.vercel.app](https://rishta-elite.vercel.app/)
 
-I like turning ideas into real projects and learning by building. Here are a few things I've worked on.
+### 🛍️ THREAD CO. | E-commerce Store
+Nine-page online store built with HTML, CSS and JavaScript: product browsing, a working cart and checkout, and two-factor authentication through EmailJS.
 
-## 💻 My Projects
+🔗 Live: [thread-co-e-commerce-rose.vercel.app](https://thread-co-e-commerce-rose.vercel.app/)
 
-### 🛍️ Thread Co. | E-commerce Website
+### 🤖 AI Image Captioner
+React (Vite) app that sends an uploaded image to the Gemini API and returns plain, alt-text or caption output. Deployed on Vercel.
 
-A clothing e-commerce project with a focus on the shopping experience and website design.
+🔗 Live: [image-captioner-pi.vercel.app](https://image-captioner-pi.vercel.app/)
+📂 Code: [github.com/shahidabuali/Ai-Image-TO-Captions](https://github.com/shahidabuali/Ai-Image-TO-Captions)
 
-🔗 [Check out the website](https://thread-co-e-commerce-rose.vercel.app/)
+### 🎀 Personal Portfolio
+3D interactive portfolio with a Supabase backend and an admin dashboard for managing contact messages and reviews. Deployed through GitHub and Vercel.
 
-### 🎀 My Personal Portfolio
+🔗 Live: [shahidas-portfolio.vercel.app](https://shahidas-portfolio.vercel.app/)
+📂 Code: [github.com/shahidabuali/My-Portfolio](https://github.com/shahidabuali/My-Portfolio)
 
-My own portfolio website, where I share my work and experiment with design and website features.
+## 🛠️ Tech Stack
 
-🔗 [Visit my portfolio](https://shahidas-portfolio.vercel.app/)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 
-### 🤖 AI Image-to-Captions
+## 🎓 Certifications & Virtual Experience
 
-An AI-based project that generates captions from images. This is one of the projects I'm exploring as I work more with AI applications.
-
-🔗 [Try the application](https://image-captioner-pi.vercel.app/)
-
-### 💌 Rishta Elite | Matrimonial Platform
-
-A matrimonial website built around helping people connect through an online platform.
-
-🔗 [Visit Rishta Elite](https://rishta-elite.vercel.app/)
-
-
-## 🎓 Certifications & Professional Learning
-
-Here are some of the certifications and practical job simulations I've completed while expanding my knowledge of AI and Generative AI.
-
-### 1. Artificial Intelligence Fundamentals | IBM
-
+### Artificial Intelligence Fundamentals | IBM SkillsBuild (Oct 24, 2026)
 [![IBM AI Fundamentals](certifications/IBMDesign20261024-20-266kle_page-0001.jpg)](https://www.credly.com/badges/c8680fe7-b4f0-4f41-9a00-5de1ccea453b/public_url)
-**Issuer:** IBM
 
-🔗 [View verified credential on Credly](https://www.credly.com/badges/c8680fe7-b4f0-4f41-9a00-5de1ccea453b/public_url)
+🔗 [Verify on Credly](https://www.credly.com/badges/c8680fe7-b4f0-4f41-9a00-5de1ccea453b/public_url)
 
-### 2. GEN AI Virtual Internship | BCG / Forage
+### Advanced Software Engineering Job Simulation | Walmart Global Tech via Forage (Oct 25, 2026)
+[![Walmart Advanced Software Engineering](certifications/Walmat_Software_Engineering_Job_Simluation__forage__page-0001.jpg)](certifications/Walmat_Software_Engineering_Job_Simluation__forage__page-0001.jpg)
 
-[![GEN AI Virtual Internship](certifications/genai%20job%20simulation%20bcg2_page-0001.jpg)](https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_6ad37d5c370ca66eb279ac60_1792745602361_completion_certificate.pdf)
+Tasks: advanced data structures, software architecture, relational database design, data munging.
 
-**Issuer:** Boston Consulting Group (BCG) via Forage
+### GenAI Job Simulation | BCG X via Forage (Oct 23, 2026)
+[![BCG X GenAI](certifications/genai%20job%20simulation%20bcg2_page-0001.jpg)](https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_6ad37d5c370ca66eb279ac60_1792745602361_completion_certificate.pdf)
 
+Tasks: data extraction and analysis, developing an AI-powered financial chatbot.
 🔗 [View completion certificate](https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_6ad37d5c370ca66eb279ac60_1792745602361_completion_certificate.pdf)
-### 3. Generative AI | Forage
 
-[![Generative AI](certifications/EAB%20JOB%20SIMULATION,%20FORAGE_page-0001.jpg)](https://www.theforage.com/completion-certificates/PSJm5xBFZtjjf9AnA/i2nMh36aEWT7awGCa_PSJm5xBFZtjjf9AnA_6ad37d5c370ca66eb279ac60_1792674136793_completion_certificate.pdf)
+### GenAI for Proposal Generation Job Simulation | EAB via Forage (Oct 22, 2026)
+[![EAB GenAI](certifications/EAB%20JOB%20SIMULATION,%20FORAGE_page-0001.jpg)](https://www.theforage.com/completion-certificates/PSJm5xBFZtjjf9AnA/i2nMh36aEWT7awGCa_PSJm5xBFZtjjf9AnA_6ad37d5c370ca66eb279ac60_1792674136793_completion_certificate.pdf)
 
-**Issuer:** Forage
-
+Tasks: using generative AI to draft a hypothesis proposal and refine it through continued discovery.
 🔗 [View completion certificate](https://www.theforage.com/completion-certificates/PSJm5xBFZtjjf9AnA/i2nMh36aEWT7awGCa_PSJm5xBFZtjjf9AnA_6ad37d5c370ca66eb279ac60_1792674136793_completion_certificate.pdf)
-
-### 4. GenAI for Proposal Generation Job Simulation
-
-[![GenAI Proposal Generation](certifications/artificial-intelligence-fundamentals.png)](PASTE_YOUR_CERTIFICATE_URL_HERE)
-
-**Issuer:** Please confirm from your certificate
-
-🔗 [View certificate](PASTE_YOUR_CERTIFICATE_URL_HERE)
-
----
-
-
-## 🛠️ Technologies I Work With
-
-- **Frontend:** React.js, JavaScript, Redux, Tailwind CSS
-- **Backend:** Node.js, Express.js, REST APIs, GraphQL
-- **Databases:** MongoDB, PostgreSQL
-- **Tools:** Git, Docker, AWS, Vercel
-
-## 🌱 What I'm Working On
-
-I'm continuing to improve my full-stack development skills and explore ways to bring AI features into useful web applications.
-
-I also enjoy improving existing projects, solving bugs, and making websites easier to use.
 
 ## 🤝 Let's Connect
 
-I'm open to remote development opportunities and freelance projects.
+Open to full-time remote roles, 09:00 to 22:00 PKT.
 
 - 🌐 [Portfolio](https://shahidas-portfolio.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/shahida-bu-ali-3010ba288/)
-- 🐙 [GitHub](https://github.com/shahidabuali)
-
-Thanks for stopping by! 😊
-
-<!--
-**shahidabuali/shahidabuali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 [LinkedIn](https://www.linkedin.com/in/shahida-bu-ali-3010ba288)
+- ✉️ shahidabuali123@gmail.com
